@@ -1,6 +1,5 @@
 # 👋 Hi, I'm Cauê Lima!
-
-A junior full-stack developer, passionate about what I do.
+## A junior full-stack developer, passionate about what I do.
 
 <br>
 
