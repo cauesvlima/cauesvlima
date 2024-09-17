@@ -4,6 +4,7 @@ A junior full-stack developer, passionate about what I do.
 
 
 
+
 ## 🛠️ Technologies & Tools
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -20,10 +21,12 @@ A junior full-stack developer, passionate about what I do.
 
 
 
+
 ## 🔭 Current Projects
 
 - 🛎 **[Valihost](https://valihost.com.br/)**: A system designed to simplify hotel and inn management, making administrators' work easier. In addition to assisting with daily tasks, it offers simple and user-friendly tools, providing an intuitive experience for users.
 - 🎮 **[Clone Termo](https://cauesvlima.github.io/clone-Termo/)**: Clone of the game "O Termo", developed in React.
+
 
 
 
