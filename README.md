@@ -22,8 +22,8 @@ I’m a passionate developer focused on creating amazing web applications. My cu
 
 ## 🔭 Current Projects
 
-- 🎶 **[Your Musical Platform](#)**: A platform for musicians to upload, organize sheet music, and form bands.
-- 🛠️ **React Components**: Developing audio recording and conversion to OGG format.
+- 🛎 **[Valihost](#)**: A platform for musicians to upload, organize sheet music, and form bands.
+- 🎮 **[Clone Termo](#https://cauesvlima.github.io/clone-Termo/)**: Clone do jogo o Termo, feito em react.
 - 📱 **Group Chat Management System**: Implementing chat group management with drag-and-drop features for a better user experience.
 
 ---
