@@ -22,8 +22,8 @@ I’m a passionate developer focused on creating amazing web applications. My cu
 
 ## 🔭 Current Projects
 
-- 🛎 **[Valihost](#)**: A platform for musicians to upload, organize sheet music, and form bands.
-- 🎮 **[Clone Termo](#https://cauesvlima.github.io/clone-Termo/)**: Clone do jogo o Termo, feito em react.
+- 🛎 **[Valihost](https://valihost.com.br/)**: A platform for musicians to upload, organize sheet music, and form bands.
+- 🎮 **[Clone Termo](https://cauesvlima.github.io/clone-Termo/)**: Clone do jogo o Termo, feito em react.
 - 📱 **Group Chat Management System**: Implementing chat group management with drag-and-drop features for a better user experience.
 
 ---
