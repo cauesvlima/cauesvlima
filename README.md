@@ -6,7 +6,7 @@ I’m a passionate developer focused on creating amazing web applications. My cu
 
 ## 🛠️ Technologies & Tools
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Badge](https://img.shields.io/static/v1?label=react&message=18.2.0&color=61DAFB&style=for-the-badge&logo=react)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
