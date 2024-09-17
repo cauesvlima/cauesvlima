@@ -23,7 +23,7 @@ I’m a passionate developer focused on creating amazing web applications. My cu
 ## 🔭 Current Projects
 
 - 🛎 **[Valihost](https://valihost.com.br/)**: A system designed to simplify hotel and inn management, making administrators' work easier. In addition to assisting with daily tasks, it offers simple and user-friendly tools, providing an intuitive experience for users.
-- 🎮 **[Clone Termo](https://cauesvlima.github.io/clone-Termo/)**: Clone of the game "O Termo", developed in react.
+- 🎮 **[Clone Termo](https://cauesvlima.github.io/clone-Termo/)**: Clone of the game "O Termo", developed in React.
 - 📱 **Group Chat Management System**: Implementing chat group management with drag-and-drop features for a better user experience.
 
 ---
@@ -36,4 +36,15 @@ I’m a passionate developer focused on creating amazing web applications. My cu
 
 ---
 
-⭐️ From [Your Name] © 2024
+## 📈 GitHub Stats
+
+<div align="center">
+  <a href="https://github.com/cauesvlima">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cauesvlima&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=dark" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cauesvlima&layout=compact&hide_border=true&theme=dark" />
+  </a>
+</div>
+
+---
+
+⭐️ From Cauê Lima © 2024
