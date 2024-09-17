@@ -1,4 +1,4 @@
-# 👋 Hello, I'm [Seu Nome]!
+# 👋 Hello, I'm [Cauê Lima]!
 
 I’m a passionate developer focused on creating amazing web applications. My current stack includes **React**, **PHP (Laravel)**, and **JavaScript** to build dynamic and scalable projects.
 
@@ -6,11 +6,11 @@ I’m a passionate developer focused on creating amazing web applications. My cu
 
 ## 🛠️ Technologies & Tools
 
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" alt="Laravel" width="40" height="40"/>
 
 ---
 
@@ -24,9 +24,9 @@ I’m a passionate developer focused on creating amazing web applications. My cu
 
 ## 📫 How to reach me
 
-- Email: your.email@example.com
-- LinkedIn: [Your LinkedIn](#)
-- GitHub: [Your GitHub Profile](#)
+- Email: cauesvlima@gmail.com
+- LinkedIn: [https://www.linkedin.com/in/cauesvlima/](#)
+- GitHub: [https://github.com/cauesvlima](#)
 
 ---
 
