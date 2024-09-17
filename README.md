@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Cauê Lima!
-## A junior full-stack developer, passionate about what I do.
+A junior full-stack developer, passionate about what I do.
 
 <br>
 
@@ -34,5 +34,3 @@
 - Email: cauesvlima@gmail.com
 - LinkedIn: [https://www.linkedin.com/in/cauesvlima/](#)
 - GitHub: [https://github.com/cauesvlima](#)
-
-
